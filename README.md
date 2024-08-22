@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Full stack development, C++**
 
-- 💬 Ask me about **Web Development, C, C++ , bootstrap**
+- 💬 Ask me about **C++ , C, JavaScript, React.js, Redux Toolkit, Context API, API, Node.js, Express.js, MongoDB, SQL, CSS**
 
-- 📫 How to reach me **psc2001singh@gmail.com**
+- 📫 How to reach me **priyansh2001singh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
