@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=1060&t=st=1677510702~exp=1677511302~hmac=86559dd84e65792bb61947c8e379a31df1405fb09c1ea63b53c79038c4d7242f)
 <h1 align="center">Hi 👋, I'm Priyansh Singh Chaudhary</h1>
-<h3 align="center">I am coding enthusiast and a learner.</h3>
+<h3 align="center">A Programmer who writes code for coffee.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh1002&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh1002" /> </p>
