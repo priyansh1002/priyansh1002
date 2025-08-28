@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh1002&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh1002" /> </p>
 
-- 🌱 I’m currently learning **Full stack development, C++**
+- 🌱 I’m currently learning **Full stack development, C++(DSA)**
 
-- 💬 Ask me about **C++ , C, JavaScript, React.js, Redux Toolkit, Context API, API, Node.js, Express.js, MongoDB, SQL, CSS**
+- 💬 Ask me about **C++, JavaScript, React.js, Redux Toolkit, Context API, API, Node.js, Express.js, MongoDB, SQL, CSS , DSA**
 
 - 📫 How to reach me **priyansh2001singh@gmail.com**
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://instagram.com/priyansh_singh_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyansh_singh_369" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/priyanshccc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyanshccc" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Pri2002yansh/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pathrise.com%2Fguides%2Fa-review-of-leetcode-as-a-software-engineer-interview-prep-tool%2F&psig=AOvVaw2ZDNCGyhp91I0w4vi5NlCE&ust=1756487588419000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjupvWAro8DFQAAAAAdAAAAABAE" alt="psc2001singh" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Pri2002yansh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="psc2001singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
